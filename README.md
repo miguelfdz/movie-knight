@@ -1,4 +1,3 @@
 # movie-knight
 
-Aplicacion web de un catalogo de peliculas con base de datos usando mysql con php. 
-HTML, CSS, PHP, JAVASCRIPT
+Aplicacion web de un catalogo de peliculas con base de datos usando mySql con HTML, Css, Php y Javascript.
